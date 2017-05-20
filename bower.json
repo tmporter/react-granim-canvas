@@ -1,0 +1,29 @@
+{
+  "name": "react-granim-canvas",
+  "version": "0.0.0",
+  "description": "react-granim-canvas",
+  "main": "dist/react-granim-canvas.min.js",
+  "homepage": "https://github.com/tmporter/react-granim-canvas",
+  "authors": [
+    "Timothy Porter"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
