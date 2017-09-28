@@ -7,8 +7,6 @@ React Granim Canvas is a simple React component that provides a simple full-widt
 
 The easiest way to use react-granim-canvas is to install it from NPM and include it in your own React build process (using [Browserify](http://browserify.org), [Webpack](http://webpack.github.io/), etc).
 
-You can also use the standalone build by including `dist/react-granim-canvas.js` in your page. If you use this, make sure you have already included React, and it is available as a global variable.
-
 ```
 npm install react-granim-canvas --save
 ```
